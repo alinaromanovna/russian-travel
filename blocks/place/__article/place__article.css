@@ -24,7 +24,7 @@
 @media screen and (max-width: 767px) {
     .place__article {
         grid-template-columns: 320px;
-        rows-gap: 32px;
+        row-gap: 32px;
         
     }
 }

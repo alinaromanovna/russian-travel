@@ -29,7 +29,7 @@
     .photo-grid__list {
         grid-template-columns: repeat(1, 1fr);
         grid-template-rows: repeat(12, 1fr);
-        rows-gap: 12px;   
+        row-gap: 12px;   
     }
      
 } 
