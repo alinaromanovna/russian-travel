@@ -2,7 +2,6 @@
     max-width: 1184px;
     max-height: 671px;
     margin: 0 auto;
-    padding: 0 48px 0 48px;
 }
 
 @media screen and (max-width: 1279px) {
@@ -17,7 +16,6 @@
     .photo-grid {
         max-width: 720px;
         max-height: 1664px;
-        padding: 0 24px;
     }
      
 }
@@ -26,7 +24,6 @@
     .photo-grid {
         max-width: 288px;
         max-height: 2724px;
-        padding: 0 16px;
     }
      
 } 
