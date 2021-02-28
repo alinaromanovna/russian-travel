@@ -1,5 +1,4 @@
-.footer__list {
-    width: auto;
+.footer__nav-list {
     list-style: none;
     margin: 0;
     padding: 0;
@@ -8,7 +7,7 @@
     column-gap: 18px;
 }
 @media screen and (max-width: 767px) {
-    .footer__list {
+    .footer__nav-list {
         grid-template-columns: 1fr;
         grid-template-rows: repeat(5, max-content);
         row-gap: 32px;
